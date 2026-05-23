@@ -1,0 +1,14 @@
+{
+  "name": "ffxiv-gathering-prices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ffxiv-gathering-prices.js",
+  "scripts": {
+    "start": "node ffxiv-gathering-prices.js",
+    "test": "node --check ffxiv-gathering-prices.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
